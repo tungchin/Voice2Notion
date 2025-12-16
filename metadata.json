@@ -1,0 +1,7 @@
+{
+  "name": "Voice2Notion AI",
+  "description": "Convert voice notes to structured text, categorized and ready for Notion using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
